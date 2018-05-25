@@ -1,0 +1,42 @@
+.face{
+  float:left;
+  position: absolute;
+  width: 312px;
+  border: solid lightgray 4px;
+  border-radius: 75px;
+  margin: 15px;
+}
+
+.center{
+  text-align: center;
+}
+h2{
+  font-size: 40px;
+}
+
+.jumbotron{
+  background-color: #d8f2ff;
+}
+
+.well{
+  background-color: #d8f2ff;
+}
+
+<<<<<<< HEAD
+.small{
+  font-size: 12px;
+  font-style: italic;
+}
+
+body{
+  font-family: Georgia;
+}
+=======
+.vlight{
+  backgroung-color: #edf7fc;
+}
+
+
+footer{
+  font-style: italic;
+}
