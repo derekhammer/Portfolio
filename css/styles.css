@@ -1,5 +1,5 @@
 .face{
-  float: left;
+  float:left;
   position: absolute;
   width: 312px;
   padding: 15px;
@@ -20,13 +20,10 @@ h2{
   color: #bde7fc;
 }
 
-.dark{
-  color: #99dcff;
+.vlight{
+  backgroung-color: #edf7fc;
 }
 
-.jumbotron{
-  background-color: #d8f2ff;
-}
 
 .well{
   background-color: #d8f2ff;
